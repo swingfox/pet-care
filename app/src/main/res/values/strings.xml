@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetCareGuide</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">ADD PET</string>
+    <string name="update">UPDATE pet</string>
+    <string name="description">ADD DESCRIPTION</string>
+    <string name="Add_DES">ADD TRACKER</string>
+    <string name="select">SELECT PHOTO</string>
+    <string name="Add_New">ADD PET </string>
+    <string name="deleteContact">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="edit">Edit Contact</string>
+    <string name="delete">Delete Contact</string>
+    <string name="edittracker">Edit Tracker</string>
+    <string name="deletetracker">Delete Tracker</string>
+</resources>
